@@ -1,0 +1,41 @@
+POS Projekt
+Steam Assistant - Schultheis, Granzer
+
+Funktionen:
+- Simple User Interface:
+	+ Welcome Screen 
+		- Info über das Program
+			+ Logo in Ascii Art
+			+ Version
+			+ Schultheis, Granzer
+			+ Funktion des Programs
+		- Status ob der Steam Assistant mit der Steam API verbunden ist
+			+ Online / Offline
+		- Commands welche in der Commandline verwendet können
+	+ Commands
+		+ Player	--> Steam 64ID muss angegeben werden 
+			- Private Data
+				+ realname (zeigt den echten namen des users)
+				+ primaryclanid (Zeigt die hauptgruppe des benutzers an)
+				+ timecreated (Datum und Uhrzeit wann das Profil erstellt wurde)
+				+ gameserver id (Falls der Benützer Online ein Spiel spielt zeigt es den Namen an und die IP - Adresse)
+				+ 
+			- General Information
+				- Kein Privates Profil
+					+ general (gives general information)
+						- vac banned (ja / nein)
+						- trade banned (ja nein)
+						- games in library
+					+ has VAC ban (shows if player has a VAC ban on record)
+					+ anzahl der spiele
+					+ anzahl der items die der user besitzt
+				- Privates PRofil
+					+ vac banned (ja / nein)
+					+ trade banned (ja nein)
+			+ Game --> Name des Spiels wird benötigt
+				- Preis (in €)
+		- Show Games on Sale (= zeigt die Spiele an, welche im Steam Store im angebot sind)
+				-
+
+
+				
