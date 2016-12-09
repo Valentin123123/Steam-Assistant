@@ -13,6 +13,10 @@ namespace Steam_Assistant
             About about = new About();
             about.Info();
 
+            Console.WriteLine("\n");
+            about.Version = "1.0";
+            about.showVersion();
+
             Console.ReadKey();
         }
     }
