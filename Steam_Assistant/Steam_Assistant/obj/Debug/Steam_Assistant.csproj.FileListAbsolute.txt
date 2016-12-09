@@ -1,0 +1,6 @@
+S:\Dokumente_HDD\Visual Studio 2015\Projects\Steam_Assistant\Steam_Assistant\bin\Debug\Steam_Assistant.exe.config
+S:\Dokumente_HDD\Visual Studio 2015\Projects\Steam_Assistant\Steam_Assistant\obj\Debug\Steam_Assistant.csprojResolveAssemblyReference.cache
+S:\Dokumente_HDD\Visual Studio 2015\Projects\Steam_Assistant\Steam_Assistant\bin\Debug\Steam_Assistant.exe
+S:\Dokumente_HDD\Visual Studio 2015\Projects\Steam_Assistant\Steam_Assistant\bin\Debug\Steam_Assistant.pdb
+S:\Dokumente_HDD\Visual Studio 2015\Projects\Steam_Assistant\Steam_Assistant\obj\Debug\Steam_Assistant.exe
+S:\Dokumente_HDD\Visual Studio 2015\Projects\Steam_Assistant\Steam_Assistant\obj\Debug\Steam_Assistant.pdb
