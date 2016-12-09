@@ -4,21 +4,21 @@ Steam Assistant - Schultheis, Granzer
 Funktionen:
 - Simple User Interface:
 	+ Welcome Screen 
-		- Info ¸ber das Program
+		- Info √ºber das Program
 			+ Logo in Ascii Art
 			+ Version
 			+ Schultheis, Granzer
 			+ Funktion des Programs
 		- Status ob der Steam Assistant mit der Steam API verbunden ist
 			+ Online / Offline
-		- Commands welche in der Commandline verwendet kˆnnen
+		- Commands welche in der Commandline verwendet werden k√∂nnen
 	+ Commands
 		+ Player	--> Steam 64ID muss angegeben werden 
 			- Private Data
 				+ realname (zeigt den echten namen des users)
 				+ primaryclanid (Zeigt die hauptgruppe des benutzers an)
 				+ timecreated (Datum und Uhrzeit wann das Profil erstellt wurde)
-				+ gameserver id (Falls der Ben¸tzer Online ein Spiel spielt zeigt es den Namen an und die IP - Adresse)
+				+ gameserver id (Falls der Ben√ºtzer Online ein Spiel spielt zeigt es den Namen an und die IP - Adresse)
 				+ 
 			- General Information
 				- Kein Privates Profil
@@ -32,8 +32,8 @@ Funktionen:
 				- Privates PRofil
 					+ vac banned (ja / nein)
 					+ trade banned (ja nein)
-			+ Game --> Name des Spiels wird benˆtigt
-				- Preis (in Ä)
+			+ Game --> Name des Spiels wird ben√∂tigt
+				- Preis (in ‚Ç¨)
 		- Show Games on Sale (= zeigt die Spiele an, welche im Steam Store im angebot sind)
 				-
 
